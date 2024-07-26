@@ -1,0 +1,2 @@
+Created to fix the many many problems with the original ArenaDraft but I have a soft spot for the original as it was my first personal project, jank solutions and all so I built a new version instead of replacing it.
+Not finished as there's no actual draft part, just a script to call an API that creates the file we would be using when we reference cards in the draft code as opposed to a maze like file structure containing every single card in hearthstone.
